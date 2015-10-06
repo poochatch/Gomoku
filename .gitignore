@@ -1,0 +1,8 @@
+*.pyc
+Gomoku/
+changes
+five
+five.cpp
+five.o
+library.so
+
